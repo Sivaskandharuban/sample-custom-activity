@@ -8,7 +8,7 @@
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Template",
+            "name": "HTMLJourneyBuilderSample",
           "description": "A Template for a custom Journey Builder activity",
           "step1Label": "Configure Activity"
         }
@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "a45048af-9afd-44ba-ad90-3a63b8c8b557",
+      "applicationExtensionKey": "29ab4371-3015-4f52-9f27-b32e17156784",
       "save": {
         "url": "https://journeyactivity18.herokuapp.com/journeybuilder/save",
           "verb": "POST",
